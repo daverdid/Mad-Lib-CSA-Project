@@ -1,15 +1,34 @@
-# Mad-Lib-CSA-Project
+# Mad Libs Java Program
 
-## About:
-This is a project for a CSA class, designed to teach each team on the uses of user input, string manipulation, and string indexing. The user will be able to use sentence templates for a mad lib, filling out the details as they run the program.
+This project is a simple Java-based Mad Libs game that asks the user for words such as nouns, verbs, adjectives, and places, then fills them into a story.
 
-## How we're running it:
-The group is separated into two teams. Both make different versions and the team leader chooses the best one that fulfills the requirements set by PLTW. The chosen team will be able to push their version to the main repository. All teams should add a README.md to describe how they made their version and what makes it unique. The team leader will make sure all members are working in sync and on task.
+## Files
 
-## Roles:
-* David Kim - Team Leader
-* Isaac Ang - Team A Coder 1
-* Gurucharan Vidhyashankar - Team A Coder 2
-* Rachita Chaudhari - Team B Coder 1
-* Bhavna Dingari - Team B Coder 2
-* Pavi Kalra - Team B Coder 3
+- `madlibs.java` - The Java source file containing the Mad Libs logic.
+
+## How to Run
+
+1. Open a terminal in this folder.
+2. Compile the program:
+   ```bash
+   javac madlibs.java
+   ```
+3. Run the program:
+   ```bash
+   java madlibs
+   ```
+
+## What It Does
+
+The program prompts the user for several words and then prints a completed story based on the inputs.
+
+## Example
+
+A sample story may look like this after input:
+
+> I went to the zoo with Mia to see a tiger. There were people laughing around the enclosure which made the playful apes go bananas. My friend Sam started to run near the park. I was so excited that I had to sprint and leave the zoo with my backpack.
+
+## Notes
+
+- The program uses `Scanner` to read user input.
+- It replaces placeholders like `<noun1>`, `<verb2>`, and `<adjective1>` in the story.
