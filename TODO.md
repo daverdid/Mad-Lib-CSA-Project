@@ -1,4 +1,4 @@
-# TODO LIST
+<img width="783" height="428" alt="image" src="https://github.com/user-attachments/assets/5e65178e-50c5-4278-9d97-ae571a50a764" /># TODO LIST
 
 ## Team A:
   ### Isaac:
@@ -15,8 +15,8 @@
     * Final print statement of completed story ✅ - Friday
     * Sentence 2 ✅ - Friday
     * Sentence 4 ✅ - Friday (Done by Isaac)
-    * Comments
-    * Bug/Stress Test
+    * Comments ✅ - Friday
+    * Bug/Stress Test ✅ - Friday
     * Submit final version
 
 ## Team B:
