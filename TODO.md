@@ -14,8 +14,9 @@
     * Algorithms to parse the sections ✅ - Friday
     * Final print statement of completed story ✅ - Friday
     * Sentence 2 ✅ - Friday
-    * Sentence 4
+    * Sentence 4 ✅ - Friday (Done by Isaac)
     * Comments
+    * Bug/Stress Test
     * Submit final version
 
 ## Team B:
