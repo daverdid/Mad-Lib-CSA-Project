@@ -1,15 +1,15 @@
-# Mad Libs Java Program
+# Mad-Lib-CSA-Project
 
-This program uses the `Scanner` class to collect user input. It asks for nouns, verbs, adjectives, and a place, then replaces the placeholders in a story with the words the user enters to create a finished Mad Libs result.
+## About:
+This is a project for a CSA class, designed to teach each team on the uses of user input, string manipulation, and string indexing. The user will be able to use sentence templates for a mad lib, filling out the details as they run the program.
 
-## Files
+## How we're running it:
+The group is separated into two teams. Both make different versions and the team leader chooses the best one that fulfills the requirements set by PLTW. The chosen team will be able to push their version to the main repository. All teams should add a README.md to describe how they made their version and what makes it unique. The team leader will make sure all members are working in sync and on task.
 
-- `madlibs.java` - The Java program that runs the game.
-
-## What It Does
-
-The program prompts the user for several words and then inserts them into a prewritten story. It searches for placeholders such as `<noun1>`, `<verb2>`, and `<adjective1>` and replaces them with the user's input.
-
-## Example
-
-> I went to the zoo with Mia to see a tiger. There were people laughing around the enclosure which made the playful apes go bananas. My friend Sam started to run near the park. I was so excited that I had to sprint and leave the zoo with my backpack.
+## Roles:
+* David Kim - Team Leader
+* Isaac Ang - Team A Coder 1
+* Gurucharan Vidhyashankar - Team A Coder 2
+* Rachita Chaudhari - Team B Coder 1
+* Bhavna Dingari - Team B Coder 2
+* Pavi Kalra - Team B Coder 3
