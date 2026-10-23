@@ -9,7 +9,7 @@
     * Sentence 1 ✅ - Thursday
     * Sentence 3 ✅ - Friday (Done by Guru)
     * Fix noun, verb, adjective requirement ✅- Thursday
-    * Unique read me
+    * Unique read me ✅ - Friday 
   ### Gurucharan:
     * Algorithms to parse the sections ✅ - Friday
     * Final print statement of completed story ✅ - Friday
@@ -17,7 +17,7 @@
     * Sentence 4 ✅ - Friday (Done by Isaac)
     * Comments ✅ - Friday
     * Bug/Stress Test ✅ - Friday
-    * Submit final version
+    * Submit final version ✅ - Friday (Done by Isaac)
 
 ## Team B:
   ### Bhavna:
