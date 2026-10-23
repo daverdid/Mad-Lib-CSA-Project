@@ -1,4 +1,4 @@
-<img width="783" height="428" alt="image" src="https://github.com/user-attachments/assets/5e65178e-50c5-4278-9d97-ae571a50a764" /># TODO LIST
+# TODO LIST
 
 ## Team A:
   ### Isaac:
