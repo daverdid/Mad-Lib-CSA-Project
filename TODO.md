@@ -27,9 +27,11 @@
     * Comments 
   ### Pavi:
     * All requirements for sentence 2 ✅ - Thursday
-    * Create unique read me
+    * Create unique read me ✅ - Friday
     * Presentation slide deck
+    * Stress test ✅ - Friday
   ### Rachita:
     * All requirements for sentence 3 ✅ - Thursday
     * All requirements for sentence 4
     * Presentation slide deck
+
