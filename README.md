@@ -1,4 +1,5 @@
 # Mad-Lib-CSA-Project
+This is not the read me for the code, please check UniqueREADME.md. We ended up choosing Bhavna's group for the code, details are there.
 
 ## About:
 This is a project for a CSA class, designed to teach each team on the uses of user input, string manipulation, and string indexing. The user will be able to use sentence templates for a mad lib, filling out the details as they run the program.
