@@ -24,7 +24,7 @@
     * All requirements for sentence 1 ✅ - Tuesday
     * Submit final version
     * Presentation slide deck
-    * Comments 
+    * Comments ✅ - Friday
   ### Pavi:
     * All requirements for sentence 2 ✅ - Thursday
     * Create unique read me ✅ - Friday
