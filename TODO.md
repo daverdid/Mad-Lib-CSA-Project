@@ -10,6 +10,7 @@
     * Sentence 3 ✅ - Friday (Done by Guru)
     * Fix noun, verb, adjective requirement ✅- Thursday
     * Unique read me ✅ - Friday 
+    * Slide deck work ✅ - Monday
   ### Gurucharan:
     * Algorithms to parse the sections ✅ - Friday
     * Final print statement of completed story ✅ - Friday
@@ -22,16 +23,17 @@
 ## Team B:
   ### Bhavna:
     * All requirements for sentence 1 ✅ - Tuesday
-    * Submit final version
-    * Presentation slide deck
+    * Submit final version ✅ - Monday
+    * Presentation slide deck ✅ - Monday
     * Comments ✅ - Friday
+    * Fix to code, updated screenshots ✅ - Monday
   ### Pavi:
     * All requirements for sentence 2 ✅ - Thursday
     * Create unique read me ✅ - Friday
-    * Presentation slide deck
+    * Presentation slide deck ✅ - Monday
     * Stress test ✅ - Friday
   ### Rachita:
     * All requirements for sentence 3 ✅ - Thursday
-    * All requirements for sentence 4
-    * Presentation slide deck
+    * All requirements for sentence 4 ✅ - Monday
+    * Presentation slide deck ✅ - Monday
 
